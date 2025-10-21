@@ -2,7 +2,7 @@
 
 A modern landing page built with **React**, **Vite**, and **Tailwind CSS**.  
 This project demonstrates a responsive design, clean UI, and reusable components suitable for portfolio or startup projects.
-
+ ## live Demo:   https://pixellanding.netlify.app/
 ## 🚀 Features
 - Fully responsive layout for mobile, tablet, and desktop
 - Clean and modern UI design
