@@ -23,6 +23,6 @@ cd react-tailwind-landing-page
 
 
 ##Demo
-![App Screenshot](./src/assets/screenShots/netlify.png)
+![App Screenshot](/src/assets/screenShots/netlify.png)
 
 
