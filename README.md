@@ -3,6 +3,13 @@
 A modern landing page built with **React**, **Vite**, and **Tailwind CSS**.  
 This project demonstrates a responsive design, clean UI, and reusable components suitable for portfolio or startup projects.
  ## live Demo:   https://pixellanding.netlify.app/
+
+ ## 🖼️ Preview
+
+Here’s a quick look at the project 👇
+
+![Homepage Screenshot](/src/assets/screenShots/netlify.png)
+
 ## 🚀 Features
 - Fully responsive layout for mobile, tablet, and desktop
 - Clean and modern UI design
@@ -22,6 +29,6 @@ git clone https://github.com/RaviNegi18/landing-page-react-tailwind.git
 cd react-tailwind-landing-page
 
 
-## Demo
-![App Screenshot](/src/assets/screenShots/netlify.png)
+
+
 
