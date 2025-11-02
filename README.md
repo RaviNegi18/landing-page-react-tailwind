@@ -22,7 +22,6 @@ git clone https://github.com/RaviNegi18/landing-page-react-tailwind.git
 cd react-tailwind-landing-page
 
 
-##Demo
-![App Screenshot](./src/assets/screenShots/netlify.png)
-
+## Demo
+![App Screenshot](/src/assets/screenShots/netlify.png)
 
